@@ -115,7 +115,7 @@ Frontend UI (Results + Chat)
 * Smooth animations and transitions
 * Focus on clarity and personalization
 
- ⚙️ Installation & Setup
+ ⚙️ Installation & Setup(**PYTHON 3.13 IS REQUIRED**)
 
  1. Clone the repository
 
@@ -127,7 +127,7 @@ cd food-analyzer
  2. Backend Setup
 
 ```bash
-cd backend
+cd aurascan-backend
 pip install -r requirements.txt
 python app.py
 ```
